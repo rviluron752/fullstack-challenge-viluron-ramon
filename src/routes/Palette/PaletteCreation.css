@@ -1,0 +1,40 @@
+.palette-new-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.palette-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+}
+
+.input-palette-name-form {
+  background: none;
+  background-color: white;
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  display: block;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #000;
+  margin: 25px 0px 5px 0px;
+}
+
+.input-palette-name-form:focus {
+  outline: none;
+}
+
+input[type="color"] {
+  appearance: none;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  height: 40px;
+  padding: 0;
+  width: 100%;
+  margin-top: 25px;
+}
