@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fullstack-challenge-viluron-ramon/static/css/main.eee4d4ed.css",
+    "main.js": "/fullstack-challenge-viluron-ramon/static/js/main.1c1c4af9.js",
+    "static/js/787.0fb6e0a2.chunk.js": "/fullstack-challenge-viluron-ramon/static/js/787.0fb6e0a2.chunk.js",
+    "index.html": "/fullstack-challenge-viluron-ramon/index.html",
+    "main.eee4d4ed.css.map": "/fullstack-challenge-viluron-ramon/static/css/main.eee4d4ed.css.map",
+    "main.1c1c4af9.js.map": "/fullstack-challenge-viluron-ramon/static/js/main.1c1c4af9.js.map",
+    "787.0fb6e0a2.chunk.js.map": "/fullstack-challenge-viluron-ramon/static/js/787.0fb6e0a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee4d4ed.css",
+    "static/js/main.1c1c4af9.js"
+  ]
+}
